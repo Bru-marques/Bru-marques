@@ -1,14 +1,22 @@
 - 👋 Hi, I’m @Bru-marques
 
+🇧🇷 I'm from Brazil, I took a break in Dublin and landed in Portugal;
 
-I am an enthusiastic Web Developer with a passion for creating bespoke software systems. I wold like to join a team of talented developers who work tirelessly to deliver top quality software applications for their clients.
+😍 Flutter, ReactJS & Typescript 
 
-I like to reinvent myself and learn new things. I found my passion in web development an I believe that my experiences and professional maturity can contribute to teamwork.
+💻 Nowadays I'm working at Cloudinfo as front end developer;
 
+🏡 home office friendly;
 
-I've being learning how to develop solutions in the shape of software using my creativity and my studies in JavaScript / TypeScript by building web applications with React that are not only beautiful, but are enjoyable to use and really problem-solvers.
+❤️  My passion is build beautiful and fun websites and applications;
 
-<!---
-Bru-marques/Bru-marques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📅 an ordinary day= research, discovering new ways of doing the same thing, discovering how many things can be solved using a known strategy, coding based on an elegant XD design and user experience;
+
+💎  I really believe in the power of the checklist;
+
+☕ I am coffee lover! 
+
+Skills:
+
+- ES6+ Javascript, React, CSS3, HTML5, Typescript, Styled-Components, Flutter, NextJS, Git;
+- Figma, AdobeXd, Agile routine,
