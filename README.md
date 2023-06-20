@@ -4,13 +4,13 @@
 
 😍 Flutter, ReactJS & Typescript 
 
-💻 Nowadays I'm working at Cloudinfo as front end developer;
+💻 Nowadays I'm working at ISS/SA as frontend developer;
 
 🏡 home office friendly;
 
 ❤️  My passion is build beautiful and fun websites and applications;
 
-📅 an ordinary day= research, discovering new ways of doing the same thing, discovering how many things can be solved using a known strategy, coding based on an elegant XD design and user experience;
+📅 an ordinary day = research, discovering new ways of doing the same thing, discovering how many things can be solved using a known strategy, coding based on an elegant XD design and user experience;
 
 💎  I really believe in the power of the checklist;
 
